@@ -94,6 +94,30 @@ body {
 
 #our-location {
     background-color: #51332A;
+    text-align: center;
+}
+
+.carousel {
+    width: 80%;
+    margin: auto;
+}
+
+.visit-us-header.jumbotron-fluid {
+    background-color: #E9DCD3;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-bottom: 3%;
+    font-weight: bold;
+    color: #51332A;
+}
+
+.carousel-caption {
+    padding: 1%;
+    background-color: #E9DCD3;
+    opacity: 0.8;
+    color: #51332A;
+    
 }
 
 /* end of our-location */
+
