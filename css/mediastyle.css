@@ -1,0 +1,84 @@
+@media (max-width:1024px) {
+
+
+    /* start of main-title */
+
+    #main-title {
+        background-color: #51332A;
+        text-align: center;
+        line-height: 11.5em;
+    }
+
+    .title-text {
+        text-align: center;
+        padding-bottom: 1em;
+    }
+
+    /* end of main-title */
+
+    /* start of food-menu */
+    .card {
+        margin-bottom: 10%;
+    }
+
+    /* end of food */
+
+
+    /* start of our-location */
+
+    /* end of our-location */
+}
+
+@media (max-width:540px) {
+    /* start of navigation-bar */
+
+    .navbar-brand {
+        padding-bottom: 7%;
+        text-align: center;
+        width: 100%;
+        padding-top: 7%;
+    }
+
+    .navbar-toggler {
+        text-align: center;
+        display: block;
+        width: 100%;
+    }
+
+    /* end of navigation bar */
+    /* start of main-title */
+
+    #main-title {
+        background-color: #51332A;
+        text-align: center;
+        line-height: 11.5em;
+    }
+
+    .title-text {
+        font-size: 1.8em;
+        padding-bottom: 7%;
+    }
+
+    /* end of main-title */
+
+
+    /* start of food-menu */
+
+    .card {
+        margin-bottom: 5%;
+    }
+
+    .cofee-food-header {
+        font-size: 2rem;
+        padding-top: 3%;
+        padding-bottom: 3%;
+    }
+
+
+    /* end of food */
+
+
+    /* start of our-location */
+
+    /* end of our-location */
+}

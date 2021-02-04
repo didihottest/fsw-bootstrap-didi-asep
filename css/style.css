@@ -1,0 +1,99 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+.container-fluid {
+    padding: 3% 7% 7%;
+}
+
+/* start of navigation-bar */
+
+#navigation-bar {
+    background-color: #C6A695;
+    width: 100%;
+}
+
+.logo-cafe {
+    width: 100px;
+    opacity: 0.8;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.container-fluid.navbar-top-menu {
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+.nav-link {
+    color: white !important;
+    font-size: 1.2em;
+    font-weight: 500 !important;
+}
+
+/* end of navigation bar */
+
+/* start of main-title */
+
+#main-title {
+    background-color: #51332A;
+}
+
+.logo-cafe {
+    padding-right: 5%;
+}
+
+.title-text {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    line-height: 1.5;
+    font-size: 3rem;
+    color: white;
+}
+
+
+/* end of main-title */
+/* start of food-menu */
+
+#food-menu {
+    background-color: #E9DCD3;
+}
+
+.cofee-food-header.jumbotron-fluid {
+    background-color: #51332A;
+}
+
+.cofee-food-header {
+    text-align: center;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    margin-bottom: 3%;
+    margin-top: 3%;
+    font-weight: bold;
+    color: white;
+}
+
+.card {
+    border-radius: 100px !important;
+}
+
+.card-body {
+    background-color: #845447;
+    color: white;
+
+}
+
+/* end of food */
+
+/* start of our-location */
+
+#our-location {
+    background-color: #51332A;
+}
+
+/* end of our-location */
