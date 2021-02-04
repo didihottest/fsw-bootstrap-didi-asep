@@ -121,3 +121,15 @@ body {
 
 /* end of our-location */
 
+/* Start of Footer */
+#footer {
+    text-align: center;
+    background-color: #E9DCD3;
+    padding: 1% 15%;
+}
+
+.sosmed {
+    margin: 20px 10px;
+}
+
+/* end of Footer */
