@@ -89,6 +89,10 @@ body {
 
 }
 
+.carousel-location-text h5 {
+    font-weight: bold;
+}
+
 /* end of food */
 
 
@@ -219,7 +223,7 @@ body {
     background-color:#51332A;
 }
 
-.carousel-indicators {
+.testimoni-indicators {
     background-color: #51332a;
 }
 

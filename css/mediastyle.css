@@ -21,6 +21,17 @@
         margin-bottom: 10%;
     }
 
+    .cofee-food-header {
+        font-size: 1.7rem;
+        padding-top: 3%;
+        padding-bottom: 3%;
+    }
+
+    .cofee-food-desc {
+        font-size: 1em;
+        text-align: center;
+    }
+
     /* end of food */
 
 /* start of about-us*/
@@ -43,6 +54,10 @@
 /* end of testimoni */
 
 /* start of our-location */
+
+.carousel-location-text {
+    font-size: 0.8em;
+}
 
 .location-text-1 {
     /* color: white; */
@@ -103,7 +118,7 @@
     }
 
     .cofee-food-header {
-        font-size: 2rem;
+        font-size: 1.5rem;
         padding-top: 3%;
         padding-bottom: 3%;
     }
@@ -179,7 +194,7 @@ dl, ol, ul {
         margin-bottom: 3%;
         font-weight: bold;
         color: #51332A;
-        font-size: 1.7rem;
+        font-size: 1.5rem;
     }
     /* end of our-location */
 
