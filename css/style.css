@@ -90,10 +90,100 @@ body {
 
 /* end of food */
 
+
+/* start of about-us*/
+
+#about-us {
+    background-color: #51332A;
+}
+
+.about-text-1 {
+    color: white;
+    margin-top: 2em;
+}
+
+.about-text-2 {
+    color: white;
+    margin-bottom: 2em;
+
+}
+
+/* end of about-us */
+
+/* start of testimoni */
+
+#testimoni {
+    background-color: #E9DCD3;
+}
+
+.carousel-caption {
+    /* align-items: center; */
+    position: relative;
+    color: black;
+    left: 0%;
+}
+
+.carousel-caption p {
+    font-style: italic;
+}
+
+.carousel-item img {
+    margin-left: 28em;
+    padding: 30px;
+    width: 220px;
+}
+
+.carousel-control-next-icon {
+    background-color:#51332A;
+}
+
+.carousel-control-prev-icon {
+    background-color:#51332A;
+}
+
+.carousel-indicators {
+    background-color: #51332a;
+}
+
+.logo-sponsor img {
+    width: 150px;
+    
+}
+
+/* end of testimoni */
+
 /* start of our-location */
 
 #our-location {
     background-color: #51332A;
+}
+
+.location-text-1 {
+    color: white;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    font-size: 2em;
+    font-style: italic;
+}
+
+.location-text-2 {
+    color: white;
+    margin-bottom: 2em;
+    font-style: italic;
+}
+
+#contact {
+    background-color: #E9DCD3;
+}
+
+.garis hr {
+    border:#E9DCD3;
+}
+
+.contact-us img {
+    width: 50px;
+    margin-top: 2em;
+    margin-bottom: 3em;
 }
 
 /* end of our-location */

@@ -23,10 +23,31 @@
 
     /* end of food */
 
+/* start of about-us*/
 
-    /* start of our-location */
+.about-text-1 {
+    margin-top: -2em;
+}
 
-    /* end of our-location */
+.carousel-item img {
+    margin-left: 14em;
+    /* padding: 30px;
+    width: 220px; */
+}
+
+/* end of testimoni */
+
+/* start of our-location */
+
+.location-text-1 {
+    /* color: white; */
+    margin-top: 0em;
+    /* margin-bottom: 1em;
+    font-size: 2em;
+    font-style: italic; */
+}
+
+/* end of our-location */
 }
 
 @media (max-width:540px) {
@@ -77,8 +98,71 @@
 
     /* end of food */
 
+/* start of about-us*/
 
-    /* start of our-location */
+.about-text-1 {
+    margin-top: -1em;
+    text-align: justify;
+}
 
-    /* end of our-location */
+.contact-us img {
+    width: 19px !important;
+}
+
+/* end of about-us */
+
+/* start of testimoni */
+
+.carousel-caption {
+    align-items: center;
+    position: relative;
+    color: black;
+    left: 0%;
+}
+
+
+dl, ol, ul {
+    margin-top: 1px;
+    margin-bottom: 0rem;
+}
+
+.carousel-item {
+    margin-top: -1em;
+}
+
+.carousel-item img {
+    margin-left: 5em;
+    padding: 30px;
+    width: 150px;
+}
+
+.carousel-indicators {
+    bottom: -16px;
+}
+
+.logo-sponsor img {
+    width: 125px;
+    
+}
+
+
+
+/* end of testimoni */
+
+/* start of our-location */
+
+.location-text-1 {
+    margin-top: 0em;
+    margin-bottom: 1em;
+    font-size: 1.5em;
+}
+
+
+.contact-us img {
+    width: 50px;
+    margin-top: 2em;
+    margin-bottom: 3em;
+}
+
+/* end of our-location */
 }
