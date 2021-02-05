@@ -160,8 +160,11 @@ body {
     background-color: #E9DCD3;
 }
 
-.garis hr {
-    border:#E9DCD3;
+.garis {
+    background-color: white;
+    padding-top: 15px;
+    padding-bottom: 0px;
+    width: 100%;
 }
 
 .contact-us img {
