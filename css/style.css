@@ -18,12 +18,15 @@ body {
 .logo-cafe {
     width: 100px;
     opacity: 0.8;
+    padding-right: 0% !important;
 }
 
-.navbar-brand {
+.text-logo {
     font-family: 'Ubuntu', sans-serif;
     font-weight: bold;
     font-size: 2rem;
+    color: white;
+    text-align: center;
 }
 
 .container-fluid.navbar-top-menu {
@@ -43,10 +46,6 @@ body {
 
 #main-title {
     background-color: #51332A;
-}
-
-.logo-cafe {
-    padding-right: 5%;
 }
 
 .title-text {

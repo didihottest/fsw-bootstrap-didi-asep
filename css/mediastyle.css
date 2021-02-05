@@ -56,8 +56,16 @@
     .navbar-brand {
         padding-bottom: 7%;
         text-align: center;
-        width: 100%;
         padding-top: 7%;
+        padding-left: 0%;
+        padding-right: 0%;
+        margin-left: 0%;
+        margin-right: 0%;
+        margin: auto;
+    }
+
+    .text-logo {
+        width: 100%;
     }
 
     .navbar-toggler {
@@ -97,6 +105,14 @@
 
 
     /* end of food */
+
+    /* start of footer */
+
+    #footer p {
+        font-size: 0.8rem;
+    }
+
+    /* end of footer */
 
 /* start of about-us*/
 
