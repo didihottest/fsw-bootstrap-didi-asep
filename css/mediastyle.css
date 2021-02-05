@@ -27,6 +27,11 @@
 
 .about-text-1 {
     margin-top: -2em;
+    text-align: justify;
+}
+
+.about-text-2 {
+    text-align: justify;
 }
 
 .carousel-content img {
@@ -121,8 +126,13 @@
     text-align: justify;
 }
 
+.about-text-2 {
+    text-align: justify;
+}
+
 .contact-us img {
     width: 19px !important;
+    
 }
 
 /* end of about-us */
@@ -184,11 +194,18 @@ dl, ol, ul {
     font-size: 1.5em;
 }
 
+.location-text-2 {
+    margin-bottom: 0em;
+}
+
+#gambar-peta {
+    margin-top: 1em;
+}
 
 .contact-us img {
     width: 50px;
-    margin-top: 2em;
-    margin-bottom: 3em;
+    margin-top: 1.5em;
+    margin-bottom: 1em;
 }
 
 /* end of our-location */
