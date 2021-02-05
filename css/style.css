@@ -1,3 +1,4 @@
+/* didi start */
 body {
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
@@ -90,6 +91,9 @@ body {
 
 /* end of food */
 
+
+
+
 /* start of our-location */
 
 #our-location {
@@ -97,7 +101,7 @@ body {
     text-align: center;
 }
 
-.carousel {
+.carousel-index {
     width: 80%;
     margin: auto;
 }
@@ -111,7 +115,7 @@ body {
     color: #51332A;
 }
 
-.carousel-caption {
+.carousel-caption-index {
     padding: 1%;
     background-color: #E9DCD3;
     opacity: 0.8;
@@ -133,3 +137,93 @@ body {
 }
 
 /* end of Footer */
+
+/* didi end */
+
+
+/* mas asep start */
+.location-text-1 {
+    color: white;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    font-size: 2em;
+    font-style: italic;
+}
+
+.location-text-2 {
+    color: white;
+    margin-bottom: 2em;
+    font-style: italic;
+}
+
+#contact {
+    background-color: #E9DCD3;
+}
+
+.garis hr {
+    border:#E9DCD3;
+}
+
+.contact-us img {
+    width: 50px;
+    margin-top: 2em;
+    margin-bottom: 3em;
+}
+
+/* start of about-us*/
+
+#about-us {
+    background-color: #51332A;
+}
+
+.about-text-1 {
+    color: white;
+    margin-top: 2em;
+}
+
+.about-text-2 {
+    color: white;
+    margin-bottom: 2em;
+
+}
+
+/* end of about-us */
+
+/* start of testimoni */
+
+#testimoni {
+    background-color: #E9DCD3;
+}
+
+.text-carousel {
+    /* align-items: center; */
+    position: relative;
+    color: black;
+    left: 0%;
+}
+
+.carousel-content p {
+    font-style: italic;
+}
+
+.carousel-content img {
+    margin-left: 28em;
+    padding: 30px;
+    width: 220px;
+}
+
+.carousel-tombol {
+    background-color:#51332A;
+}
+
+.carousel-indicators {
+    background-color: #51332a;
+}
+
+.logo-sponsor img {
+    width: 150px;
+    
+}
+
+/* end of testimoni */
+/* mas asep end */

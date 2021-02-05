@@ -23,10 +23,31 @@
 
     /* end of food */
 
+/* start of about-us*/
 
-    /* start of our-location */
+.about-text-1 {
+    margin-top: -2em;
+}
 
-    /* end of our-location */
+.carousel-content img {
+    margin-left: 14em;
+    /* padding: 30px;
+    width: 220px; */
+}
+
+/* end of testimoni */
+
+/* start of our-location */
+
+.location-text-1 {
+    /* color: white; */
+    margin-top: 0em;
+    /* margin-bottom: 1em;
+    font-size: 2em;
+    font-style: italic; */
+}
+
+/* end of our-location */
 }
 
 @media (max-width:540px) {
@@ -77,6 +98,52 @@
 
     /* end of food */
 
+/* start of about-us*/
+
+.about-text-1 {
+    margin-top: -1em;
+    text-align: justify;
+}
+
+.contact-us img {
+    width: 19px !important;
+}
+
+/* end of about-us */
+
+/* start of testimoni */
+
+.text-carousel {
+    align-items: center;
+    position: relative;
+    color: black;
+    left: 0%;
+}
+
+
+dl, ol, ul {
+    margin-top: 1px;
+    margin-bottom: 0rem;
+}
+
+.text-carousel {
+    margin-top: -1em;
+}
+
+.text-carousel img {
+    margin-left: 5em;
+    padding: 30px;
+    width: 150px;
+}
+
+.testimoni-indicators {
+    bottom: -16px;
+}
+
+.logo-sponsor img {
+    width: 125px;
+    
+}
 
     /* start of our-location */
     .visit-us-header.jumbotron-fluid {
@@ -89,4 +156,24 @@
         font-size: 1.7rem;
     }
     /* end of our-location */
+
+
+/* end of testimoni */
+
+/* start of our-location */
+
+.location-text-1 {
+    margin-top: 0em;
+    margin-bottom: 1em;
+    font-size: 1.5em;
+}
+
+
+.contact-us img {
+    width: 50px;
+    margin-top: 2em;
+    margin-bottom: 3em;
+}
+
+/* end of our-location */
 }
