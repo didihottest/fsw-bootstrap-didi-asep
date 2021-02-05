@@ -34,40 +34,40 @@
 
     /* end of food */
 
-/* start of about-us*/
+    /* start of about-us*/
 
-.about-text-1 {
-    margin-top: -2em;
-    text-align: justify;
-}
+    .about-text-1 {
+        margin-top: -2em;
+        text-align: justify;
+    }
 
-.about-text-2 {
-    text-align: justify;
-}
+    .about-text-2 {
+        text-align: justify;
+    }
 
-.carousel-content img {
-    margin-left: 14em;
-    /* padding: 30px;
+    .carousel-content img {
+        margin-left: 14em;
+        /* padding: 30px;
     width: 220px; */
-}
+    }
 
-/* end of testimoni */
+    /* end of testimoni */
 
-/* start of our-location */
+    /* start of our-location */
 
-.carousel-location-text {
-    font-size: 0.8em;
-}
+    .carousel-location-text {
+        font-size: 0.8em;
+    }
 
-.location-text-1 {
-    /* color: white; */
-    margin-top: 0em;
-    /* margin-bottom: 1em;
+    .location-text-1 {
+        /* color: white; */
+        margin-top: 0em;
+        /* margin-bottom: 1em;
     font-size: 2em;
     font-style: italic; */
-}
+    }
 
-/* end of our-location */
+    /* end of our-location */
 }
 
 @media (max-width:540px) {
@@ -134,57 +134,59 @@
 
     /* end of footer */
 
-/* start of about-us*/
+    /* start of about-us*/
 
-.about-text-1 {
-    margin-top: -1em;
-    text-align: justify;
-}
+    .about-text-1 {
+        margin-top: -1em;
+        text-align: justify;
+    }
 
-.about-text-2 {
-    text-align: justify;
-}
+    .about-text-2 {
+        text-align: justify;
+    }
 
-.contact-us img {
-    width: 19px !important;
-    
-}
+    .contact-us img {
+        width: 19px !important;
 
-/* end of about-us */
+    }
 
-/* start of testimoni */
+    /* end of about-us */
 
-.text-carousel {
-    align-items: center;
-    position: relative;
-    color: black;
-    left: 0%;
-}
+    /* start of testimoni */
+
+    .text-carousel {
+        align-items: center;
+        position: relative;
+        color: black;
+        left: 0%;
+    }
 
 
-dl, ol, ul {
-    margin-top: 1px;
-    margin-bottom: 0rem;
-}
+    dl,
+    ol,
+    ul {
+        margin-top: 1px;
+        margin-bottom: 0rem;
+    }
 
-.text-carousel {
-    margin-top: -1em;
-}
+    .text-carousel {
+        margin-top: -1em;
+    }
 
-.text-carousel img {
-    margin-left: 5em;
-    padding: 30px;
-    width: 150px;
-}
+    .text-carousel img {
+        margin-left: 5em;
+        padding: 30px;
+        width: 150px;
+    }
 
-.testimoni-indicators {
-    bottom: -16px;
-}
+    .testimoni-indicators {
+        bottom: -16px;
+    }
 
-.logo-sponsor img {
-    width: 125px;
-    
-}
+    .logo-sponsor img {
+        width: 125px;
+
+    }
 
     /* start of our-location */
     .visit-us-header.jumbotron-fluid {
@@ -196,32 +198,33 @@ dl, ol, ul {
         color: #51332A;
         font-size: 1.5rem;
     }
+
     /* end of our-location */
 
 
-/* end of testimoni */
+    /* end of testimoni */
 
-/* start of our-location */
+    /* start of our-location */
 
-.location-text-1 {
-    margin-top: 0em;
-    margin-bottom: 1em;
-    font-size: 1.5em;
-}
+    .location-text-1 {
+        margin-top: 0em;
+        margin-bottom: 1em;
+        font-size: 1.5em;
+    }
 
-.location-text-2 {
-    margin-bottom: 0em;
-}
+    .location-text-2 {
+        margin-bottom: 0em;
+    }
 
-#gambar-peta {
-    margin-top: 1em;
-}
+    #gambar-peta {
+        margin-top: 1em;
+    }
 
-.contact-us img {
-    width: 50px;
-    margin-top: 1.5em;
-    margin-bottom: 1em;
-}
+    .contact-us img {
+        width: 50px;
+        margin-top: 1.5em;
+        margin-bottom: 1em;
+    }
 
-/* end of our-location */
+    /* end of our-location */
 }
